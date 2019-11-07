@@ -1,0 +1,8 @@
+com\silverbars\OrderComparator.class
+com\silverbars\domain\OrderSummary.class
+com\silverbars\domain\UserId.class
+com\silverbars\LiveOrderBoard.class
+com\silverbars\domain\Bid.class
+com\silverbars\domain\Order$Type.class
+com\silverbars\domain\Order.class
+com\silverbars\domain\PricePerKg.class
